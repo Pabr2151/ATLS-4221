@@ -1,0 +1,55 @@
+{
+	"pattrstorage" : 	{
+		"name" : "maxSynth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"gate1" : [ 0 ],
+					"gate2" : [ 0 ],
+					"gate3" : [ 0 ],
+					"gate4" : [ 0 ],
+					"gate5" : [ 0 ],
+					"gate6" : [ 0 ],
+					"gate7" : [ 0 ],
+					"live.gain~" : [ 6.0 ],
+					"note1" : [ 11 ],
+					"note2" : [ 7 ],
+					"note3" : [ 4 ],
+					"note4" : [ 4 ],
+					"note5" : [ 14 ],
+					"note6" : [ 4 ],
+					"note7" : [ 4 ],
+					"tempo" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"gate1" : [ 0 ],
+					"gate2" : [ 0 ],
+					"gate3" : [ 0 ],
+					"gate4" : [ 0 ],
+					"gate5" : [ 0 ],
+					"gate6" : [ 0 ],
+					"gate7" : [ 0 ],
+					"live.gain~" : [ 6.0 ],
+					"note1" : [ 11 ],
+					"note2" : [ 7 ],
+					"note3" : [ 4 ],
+					"note4" : [ 4 ],
+					"note5" : [ 14 ],
+					"note6" : [ 4 ],
+					"note7" : [ 4 ],
+					"tempo" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
